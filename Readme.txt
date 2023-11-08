@@ -11,4 +11,4 @@ Programming Proficiency: I'm proficient in C++ and Python, utilizing these langu
 Coding Best Practices: I believe in writing clean, maintainable code. I follow industry-standard coding practices to ensure the quality and reliability of my projects.
 
 What You'll Find Here
-In my GitHub portfolio, you'll discover a collection of projects that highlight my journey through the world of machine learning and software development. Whether it's enhancing computer vision models for object recognition, building sentiment analysis tools for natural language processing, or diving into the intricacies of neuroscience data, I'm always up for a coding challenge.
+In my GitHub portfolio, you'll discover a collection of projects that highlight my journey through the world of machine learning and software development. Whether it's enhancing computer vision models for object recognition, building sentiment analysis tools for natural language processing, I'm always up for a coding challenge.
